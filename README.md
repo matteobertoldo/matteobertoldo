@@ -1,4 +1,4 @@
-# Front-end Architet. <img src="https://github-readme-stats.vercel.app/api?username=matteobertoldo&show_icons=true&hide_border=true" alt="Stats" width="440" align="right">
+# Senior Front-end Developer. <img src="https://github-readme-stats.vercel.app/api?username=matteobertoldo&show_icons=true&hide_border=true" alt="Stats" width="440" align="right">
 
 🌈 UI/UX maker.
 
