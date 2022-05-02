@@ -2,6 +2,6 @@
 
 🌈 Web UI/UX maker.
 
-✍️ Author of [Atomforce](https://atom.io/packages/atomforce)
+✍️ Author of [Atomforce](https://atom.io/packages/atomforce) & [Language SFCC](https://atom.io/packages/language-sfcc) 
 
 ⚽️ Footbal lover, Internazionale Milano Fan.
