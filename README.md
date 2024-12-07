@@ -1,7 +1,22 @@
-# Senior Front-end Developer <img src="https://github-readme-stats.vercel.app/api?username=matteobertoldo&show_icons=true&hide_border=true" alt="Stats" width="440" align="right">
+# Hey there! 👋
+![hero-github](https://github.com/user-attachments/assets/6f930b71-90c8-4ca5-ac74-e2d25cac4fe5)
+
+> H-Farm Campus - Roncade, Italy📍 • Where i work
+
+# About Me
 
 🌈 Web UI/UX maker.
 
-✍️ Author of [Atomforce](https://atom.io/packages/atomforce) & [Language SFCC](https://atom.io/packages/language-sfcc) 
+✍️ I make some **Open Source** `npm` packages for fun!
 
-⚽️ Footbal lover, Internazionale Milano Fan.
+⚽️ 💘 Football Lover.
+
+# Let's stay in touch
+
+[![Linkedin Badge](https://img.shields.io/badge/-matteobertoldo-blue?style=flat&logo=Linkedin&logoColor=white)]([linkedin.com](https://www.linkedin.)/in/matteobertoldo/)
+
+# My Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteobertoldo)](https://github.com/matteobertoldo/github-readme-stats)
