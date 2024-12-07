@@ -13,8 +13,8 @@
 
 # Let's stay in touch
 
-[![Linkedin Badge](https://img.shields.io/badge/-matteobertoldo-blue?style=flat&logo=Linkedin&logoColor=white)]([linkedin.com](https://www.linkedin.)/in/matteobertoldo/)
-[![Instagram Badge](https://img.shields.io/badge/-matteo.bertoldo-pink?style=flat&logo=Instagram&logoColor=white)]([instagram.com](https://www.instagram.com)/matteo.bertoldo/)
+[![Linkedin Badge](https://img.shields.io/badge/-matteobertoldo-blue?style=flat&logo=Linkedin&logoColor=white)]([linkedin.com](https://www.linkedin.)/in/matteobertoldo)
+[![Instagram Badge](https://img.shields.io/badge/-matteo.bertoldo-%23E4405F?style=flat&logo=Instagram&logoColor=white)]([instagram.com](https://www.instagram.com)/matteo.bertoldo)
 
 # My Stats
 
