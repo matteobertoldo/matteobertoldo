@@ -5,6 +5,10 @@
 
 # About Me
 
+I am a web developer specialized in frontend development with more than seven years of experience.
+
+I have worked mainly in the fashion/luxury sector finalizing many projects both nationally and internationally. I currently hold the role of Full Stack Javascript Developer and Salesforce Commerce Cloud Consultant at Jakala.
+
 🌈 Web UI/UX maker.
 
 ✍️ I make some **Open Source** `npm` packages for fun!
