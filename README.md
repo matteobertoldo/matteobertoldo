@@ -1,13 +1,13 @@
 # Hey there! 👋
 ![hero-github](https://github.com/user-attachments/assets/6f930b71-90c8-4ca5-ac74-e2d25cac4fe5)
 
-> H-Farm Campus - Roncade, Italy📍 • Where i work
+> H-Farm Campus - Roncade, Italy📍
 
 # About Me
 
 I am a web developer specialized in frontend development with more than seven years of experience.
 
-I have worked mainly in the fashion/luxury sector finalizing many projects both nationally and internationally. I currently hold the role of Full Stack Javascript Developer and Salesforce Commerce Cloud Consultant at Jakala.
+I have worked mainly in the fashion/luxury sector finalizing many projects both nationally and internationally. I'm currently a freelance Full Stack Javascript Creative Developer.
 
 🌈 Web UI/UX maker.
 
