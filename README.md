@@ -11,7 +11,7 @@ I have worked mainly in the fashion/luxury sector finalizing many projects both 
 
 - 👨🏽‍💻 🌈 Full Stack Web Developer & UI/UX
 
-- 🛒 🧩 I make Cool Shopify Custom E-commerce for your business
+- 🛒 🧩 I make Cool [Shopify](https://www.shopify.com/) Custom E-commerce for your business
 
 - 📦 ✍🏼 I make some **Open Source** `npm` packages for fun!
 
