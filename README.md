@@ -5,15 +5,17 @@
 
 # About Me
 
-I am a web developer specialized in frontend development with more than seven years of experience.
+I am a **Web Developer** specialized in **Frontend Development** with 10 years of experience.
 
 I have worked mainly in the fashion/luxury sector finalizing many projects both nationally and internationally. I'm currently a freelance Full Stack Javascript Creative Developer.
 
-🌈 Web UI/UX maker.
+- 👨🏽‍💻 🌈 Full Stack Web Developer & UI/UX
 
-✍️ I make some **Open Source** `npm` packages for fun!
+- 🛒 🧩 I make Cool Shopify Custom E-commerce for your business
 
-⚽️ 💘 Football Lover.
+- 📦 ✍🏼 I make some **Open Source** `npm` packages for fun!
+
+- ⚽️ 🏟️ Football Lover
 
 # Let's stay in touch
 
