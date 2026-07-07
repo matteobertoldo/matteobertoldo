@@ -3,7 +3,7 @@
 
 # About Me
 
-I am an Italian 🇮🇹 **Web Developer** specialized in **Frontend Development & E-commerce** with 10 years of experience.
+I'm an Italian 🇮🇹 **Web Developer** specialized in **Frontend Development & E-commerce** with 10 years of experience.
 
 I have worked mainly in the fashion/luxury sector finalizing many projects both nationally and internationally. I'm currently a freelance Full Stack Javascript Creative Developer.
 
