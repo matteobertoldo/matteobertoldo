@@ -1,15 +1,13 @@
 # Hey there! 👋
-![hero-github](https://github.com/user-attachments/assets/6f930b71-90c8-4ca5-ac74-e2d25cac4fe5)
-
-> H-Farm Campus - Roncade, Italy📍
+<img width="1280" height="720" alt="cover" src="https://github.com/user-attachments/assets/830490cc-3d06-4561-bf83-3f52bf85b520" />
 
 # About Me
 
-I am a **Web Developer** specialized in **Frontend Development** with 10 years of experience.
+I am an Italian 🇮🇹 **Web Developer** specialized in **Frontend Development & E-commerce** with 10 years of experience.
 
 I have worked mainly in the fashion/luxury sector finalizing many projects both nationally and internationally. I'm currently a freelance Full Stack Javascript Creative Developer.
 
-- 👨🏽‍💻 🌈 Full Stack Web Developer & UI/UX
+- 👨🏽‍💻 🌈 Full Stack Web Developer & UI/UX Custom
 
 - 🛒 🧩 I make Cool [Shopify](https://www.shopify.com/) Custom E-commerce for your business
 
