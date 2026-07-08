@@ -1,5 +1,6 @@
 # Hey there! 👋
-<img width="1280" height="720" alt="cover" src="https://github.com/user-attachments/assets/830490cc-3d06-4561-bf83-3f52bf85b520" />
+<img width="2560" height="1440" alt="Social Cover@2x" src="https://github.com/user-attachments/assets/279f605f-1ca2-4b96-b56f-0153140ab549" />
+
 
 # About Me
 
