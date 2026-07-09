@@ -18,7 +18,7 @@ I have worked mainly in the fashion/luxury sector finalizing many projects both 
 
 # Let's stay in touch
 
-[![Linkedin Badge](https://img.shields.io/badge/-matteobertoldo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin./in/matteobertoldo)
+[![Linkedin Badge](https://img.shields.io/badge/-matteobertoldo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matteobertoldo)
 [![Instagram Badge](https://img.shields.io/badge/-matteo.bertoldo-%23E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/matteo.bertoldo)
 
 # My Stats
